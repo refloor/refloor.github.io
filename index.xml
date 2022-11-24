@@ -55,7 +55,7 @@
     </item>
     
     <item>
-      <title>Extracting Fingerprint Features Using Autoencoder Networks for Gender Classification.</title>
+      <title>Extracting Fingerprint Features Using Autoencoder Networks for Gender Classification</title>
       <link>https://example.com/publication/fingerprint-gender/</link>
       <pubDate>Thu, 15 Sep 2022 00:00:00 +0000</pubDate>
       <guid>https://example.com/publication/fingerprint-gender/</guid>
@@ -67,6 +67,54 @@
       <link>https://example.com/publication/satelite-gan/</link>
       <pubDate>Sat, 10 Sep 2022 00:00:00 +0000</pubDate>
       <guid>https://example.com/publication/satelite-gan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/gallery/basel/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/gallery/basel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/gallery/harith/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/gallery/harith/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/gallery/lanqiao1/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/gallery/lanqiao1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/gallery/lanqiao2/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/gallery/lanqiao2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/gallery/lanqiao3/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/gallery/lanqiao3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/gallery/pablo/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/gallery/pablo/</guid>
       <description></description>
     </item>
     
@@ -254,7 +302,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-157364298&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-635827941&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -264,7 +312,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-157364298&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-635827941&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
